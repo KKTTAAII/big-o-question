@@ -30,9 +30,9 @@ Part 3 - short answer
 3. True or false: n^2 + n is O(n).
    False
 4. What’s the time complexity of the .indexOf array method?
-   O(1)
+   O(n)
 5. What’s the time complexity of the .includes array method?
-   O(1)
+   O(n)
 6. What’s the time complexity of the .forEach array method?
    O(n)
 7. What’s the time complexity of the .sort array method?
